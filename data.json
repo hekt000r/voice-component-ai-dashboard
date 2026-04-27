@@ -1,0 +1,452 @@
+[
+  {
+    "id": "SKU-1001",
+    "name": "Industrial Power Drill",
+    "description": "High-torque cordless drill with brushless motor and 20V battery pack.",
+    "category": "Tools",
+    "stock_level": 45,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1504148455328-c376907d081c?w=400"
+  },
+  {
+    "id": "SKU-1002",
+    "name": "Safety High-Viz Vest",
+    "description": "Class 2 reflective safety vest with multiple pockets, neon orange.",
+    "category": "Safety Gear",
+    "stock_level": 210,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1590487988256-9ed24133863e?w=400"
+  },
+  {
+    "id": "SKU-1003",
+    "name": "Heavy Duty Pallet Jack",
+    "description": "Manual hydraulic lift, 5500 lbs capacity, steel construction.",
+    "category": "Warehouse Equipment",
+    "stock_level": 12,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=400"
+  },
+  {
+    "id": "SKU-1004",
+    "name": "Steel Toe Work Boots",
+    "description": "Oil-resistant, electrical hazard rated leather boots.",
+    "category": "Safety Gear",
+    "stock_level": 88,
+    "unit": "pairs",
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400"
+  },
+  {
+    "id": "SKU-1005",
+    "name": "LED Shop Light",
+    "description": "4-foot linkable overhead light, 5000 Lumens, daylight white.",
+    "category": "Lighting",
+    "stock_level": 134,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1565814636199-ae8133055c1c?w=400"
+  },
+  {
+    "id": "SKU-1006",
+    "name": "Nitrate Disposable Gloves",
+    "description": "Box of 100, powder-free, chemical resistant, size Large.",
+    "category": "Safety Gear",
+    "stock_level": 500,
+    "unit": "boxes",
+    "image_url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=400"
+  },
+  {
+    "id": "SKU-1007",
+    "name": "Precision Screwdriver Set",
+    "description": "24-piece magnetic set for electronics repair.",
+    "category": "Tools",
+    "stock_level": 65,
+    "unit": "sets",
+    "image_url": "https://images.unsplash.com/photo-1581244276894-0f7380184405?w=400"
+  },
+  {
+    "id": "SKU-1008",
+    "name": "Storage Tote Bin",
+    "description": "Heavy-duty plastic stackable bin with locking lid, 27 Gallon.",
+    "category": "Storage",
+    "stock_level": 150,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1581244276894-0f7380184405?w=400"
+  },
+  {
+    "id": "SKU-1009",
+    "name": "Impact Wrench",
+    "description": "1/2-inch drive, high torque pneumatic wrench.",
+    "category": "Tools",
+    "stock_level": 22,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1572981779307-38b8cabb2407?w=400"
+  },
+  {
+    "id": "SKU-1010",
+    "name": "Hard Hat",
+    "description": "Full brim safety helmet with 4-point suspension, white.",
+    "category": "Safety Gear",
+    "stock_level": 95,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1590487988256-9ed24133863e?w=400"
+  },
+  {
+    "id": "SKU-1011",
+    "name": "Duct Tape Bulk Pack",
+    "description": "Pack of 12 rolls, heavy-duty silver adhesive tape.",
+    "category": "Supplies",
+    "stock_level": 40,
+    "unit": "packs",
+    "image_url": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=400"
+  },
+  {
+    "id": "SKU-1012",
+    "name": "Extension Cord",
+    "description": "50ft, 12-gauge outdoor rated grounded cable.",
+    "category": "Electrical",
+    "stock_level": 55,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1558211583-d26f610c1eb1?w=400"
+  },
+  {
+    "id": "SKU-1013",
+    "name": "First Aid Kit",
+    "description": "250-piece industrial medical kit for workspace safety.",
+    "category": "Safety Gear",
+    "stock_level": 30,
+    "unit": "kits",
+    "image_url": "https://images.unsplash.com/photo-1603398938378-e54eab446f91?w=400"
+  },
+  {
+    "id": "SKU-1014",
+    "name": "Hand Truck / Dolly",
+    "description": "Two-wheel aluminum hand truck with 500 lbs capacity.",
+    "category": "Warehouse Equipment",
+    "stock_level": 18,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=400"
+  },
+  {
+    "id": "SKU-1015",
+    "name": "Bubble Wrap Roll",
+    "description": "12-inch x 150-foot perforated cushioning wrap.",
+    "category": "Shipping",
+    "stock_level": 25,
+    "unit": "rolls",
+    "image_url": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=400"
+  },
+  {
+    "id": "SKU-1016",
+    "name": "Safety Goggles",
+    "description": "Anti-fog, scratch-resistant wraparound eye protection.",
+    "category": "Safety Gear",
+    "stock_level": 140,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1584210038830-4e5a95393240?w=400"
+  },
+  {
+    "id": "SKU-1017",
+    "name": "Angle Grinder",
+    "description": "4-1/2-inch corded grinder for metal and masonry.",
+    "category": "Tools",
+    "stock_level": 38,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1530124566582-a618bc2615ad?w=400"
+  },
+  {
+    "id": "SKU-1018",
+    "name": "Measuring Tape",
+    "description": "25-foot heavy duty locking tape with magnetic tip.",
+    "category": "Tools",
+    "stock_level": 75,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1586864387417-f589ca3fe587?w=400"
+  },
+  {
+    "id": "SKU-1019",
+    "name": "Industrial Fan",
+    "description": "30-inch high-velocity pedestal fan for warehouse cooling.",
+    "category": "Warehouse Equipment",
+    "stock_level": 10,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=400"
+  },
+  {
+    "id": "SKU-1020",
+    "name": "Ratchet Straps",
+    "description": "4-pack of 15ft tie-down straps with J-hooks.",
+    "category": "Shipping",
+    "stock_level": 60,
+    "unit": "packs",
+    "image_url": "https://images.unsplash.com/photo-1580692475446-c2febb73861c?w=400"
+  },
+  {
+    "id": "SKU-1021",
+    "name": "Bench Vise",
+    "description": "6-inch heavy duty swivel base workshop vise.",
+    "category": "Tools",
+    "stock_level": 15,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?w=400"
+  },
+  {
+    "id": "SKU-1022",
+    "name": "Fire Extinguisher",
+    "description": "ABC Dry Chemical, 10lb rechargeable unit.",
+    "category": "Safety Gear",
+    "stock_level": 20,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?w=400"
+  },
+  {
+    "id": "SKU-1023",
+    "name": "Multimeter",
+    "description": "Digital auto-ranging tester for AC/DC current.",
+    "category": "Electrical",
+    "stock_level": 42,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=400"
+  },
+  {
+    "id": "SKU-1024",
+    "name": "Work Bench",
+    "description": "6-foot steel frame with wooden top and integrated power strip.",
+    "category": "Warehouse Equipment",
+    "stock_level": 8,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400"
+  },
+  {
+    "id": "SKU-1025",
+    "name": "Air Compressor",
+    "description": "6-Gallon pancake style, 150 PSI max pressure.",
+    "category": "Tools",
+    "stock_level": 14,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-159742324403d-ef0480993077?w=400"
+  },
+  {
+    "id": "SKU-1026",
+    "name": "Zipties Bulk Bag",
+    "description": "1000 count assorted sizes, heavy duty nylon.",
+    "category": "Supplies",
+    "stock_level": 110,
+    "unit": "bags",
+    "image_url": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=400"
+  },
+  {
+    "id": "SKU-1027",
+    "name": "Heat Gun",
+    "description": "Dual temperature settings for shrink wrap and paint removal.",
+    "category": "Tools",
+    "stock_level": 33,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1530124566582-a618bc2615ad?w=400"
+  },
+  {
+    "id": "SKU-1028",
+    "name": "Warehouse Ladder",
+    "description": "10-foot aluminum step ladder with non-slip feet.",
+    "category": "Warehouse Equipment",
+    "stock_level": 5,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1517594110029-10aa99a1ac6c?w=400"
+  },
+  {
+    "id": "SKU-1029",
+    "name": "Packaging Tape Dispenser",
+    "description": "Handheld ergonomic pistol grip dispenser.",
+    "category": "Shipping",
+    "stock_level": 85,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=400"
+  },
+  {
+    "id": "SKU-1030",
+    "name": "Ear Muffs",
+    "description": "Noise reduction rating (NRR) of 30dB, adjustable.",
+    "category": "Safety Gear",
+    "stock_level": 120,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+  },
+  {
+    "id": "SKU-1031",
+    "name": "Shop Vacuum",
+    "description": "12-Gallon wet/dry vac with blowing port.",
+    "category": "Warehouse Equipment",
+    "stock_level": 19,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=400"
+  },
+  {
+    "id": "SKU-1032",
+    "name": "Hammer",
+    "description": "20oz Rip claw framing hammer with steel handle.",
+    "category": "Tools",
+    "stock_level": 56,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1586864387417-f589ca3fe587?w=400"
+  },
+  {
+    "id": "SKU-1033",
+    "name": "Flashlight",
+    "description": "Tactical LED flashlight, water resistant, 1000 lumens.",
+    "category": "Tools",
+    "stock_level": 92,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1554734867-bf3c00a49371?w=400"
+  },
+  {
+    "id": "SKU-1034",
+    "name": "Cardboard Boxes Large",
+    "description": "Bundle of 25, 18x18x24 heavy duty shipping boxes.",
+    "category": "Shipping",
+    "stock_level": 45,
+    "unit": "bundles",
+    "image_url": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=400"
+  },
+  {
+    "id": "SKU-1035",
+    "name": "Label Printer",
+    "description": "Thermal printer for shipping labels, no ink required.",
+    "category": "Shipping",
+    "stock_level": 28,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1562184552-997c461abbe6?w=400"
+  },
+  {
+    "id": "SKU-1036",
+    "name": "Digital Scales",
+    "description": "Industrial platform scale, up to 400 lbs capacity.",
+    "category": "Shipping",
+    "stock_level": 12,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400"
+  },
+  {
+    "id": "SKU-1037",
+    "name": "Wrench Set",
+    "description": "20-piece combination metric and SAE set.",
+    "category": "Tools",
+    "stock_level": 40,
+    "unit": "sets",
+    "image_url": "https://images.unsplash.com/photo-1586864387417-f589ca3fe587?w=400"
+  },
+  {
+    "id": "SKU-1038",
+    "name": "Soldering Station",
+    "description": "Adjustable temperature station for electronics work.",
+    "category": "Electrical",
+    "stock_level": 25,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=400"
+  },
+  {
+    "id": "SKU-1039",
+    "name": "Magnetic Parts Tray",
+    "description": "Stainless steel tray for holding nuts and bolts.",
+    "category": "Tools",
+    "stock_level": 64,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1530124566582-a618bc2615ad?w=400"
+  },
+  {
+    "id": "SKU-1040",
+    "name": "Safety Traffic Cones",
+    "description": "18-inch orange PVC cones with reflective bands.",
+    "category": "Safety Gear",
+    "stock_level": 70,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1590487988256-9ed24133863e?w=400"
+  },
+  {
+    "id": "SKU-1041",
+    "name": "Level",
+    "description": "48-inch magnetic aluminum box level.",
+    "category": "Tools",
+    "stock_level": 30,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1586864387417-f589ca3fe587?w=400"
+  },
+  {
+    "id": "SKU-1042",
+    "name": "Caulk Gun",
+    "description": "Dripless manual applicator for standard cartridges.",
+    "category": "Tools",
+    "stock_level": 52,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1530124566582-a618bc2615ad?w=400"
+  },
+  {
+    "id": "SKU-1043",
+    "name": "Industrial Broom",
+    "description": "24-inch wide push broom for warehouse floors.",
+    "category": "Warehouse Equipment",
+    "stock_level": 44,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=400"
+  },
+  {
+    "id": "SKU-1044",
+    "name": "Pallet Wrap",
+    "description": "80 gauge stretch film, 18-inch x 1500-foot roll.",
+    "category": "Shipping",
+    "stock_level": 18,
+    "unit": "rolls",
+    "image_url": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=400"
+  },
+  {
+    "id": "SKU-1045",
+    "name": "Bolt Cutters",
+    "description": "24-inch compound action heavy duty cutters.",
+    "category": "Tools",
+    "stock_level": 15,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1572981779307-38b8cabb2407?w=400"
+  },
+  {
+    "id": "SKU-1046",
+    "name": "Utility Knife",
+    "description": "Retractable blade box cutter with spare blades.",
+    "category": "Tools",
+    "stock_level": 200,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1586864387417-f589ca3fe587?w=400"
+  },
+  {
+    "id": "SKU-1047",
+    "name": "Lifting Straps",
+    "description": "Forearm forklift straps for moving heavy furniture.",
+    "category": "Warehouse Equipment",
+    "stock_level": 22,
+    "unit": "pairs",
+    "image_url": "https://images.unsplash.com/photo-1580692475446-c2febb73861c?w=400"
+  },
+  {
+    "id": "SKU-1048",
+    "name": "Respirator Mask",
+    "description": "Dual cartridge mask for chemical vapors and dust.",
+    "category": "Safety Gear",
+    "stock_level": 37,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1584210038830-4e5a95393240?w=400"
+  },
+  {
+    "id": "SKU-1049",
+    "name": "Spray Paint Black",
+    "description": "Gloss black rust-protective enamel paint.",
+    "category": "Supplies",
+    "stock_level": 84, 
+    "unit": "cans",
+    "image_url": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=400"
+  },
+  {
+    "id": "SKU-1050",
+    "name": "Claw Bar",
+    "description": "12-inch steel pry bar for demolition.",
+    "category": "Tools",
+    "stock_level": 41,
+    "unit": "pcs",
+    "image_url": "https://images.unsplash.com/photo-1586864387417-f589ca3fe587?w=400"
+  }
+]
